@@ -7,15 +7,17 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/editTextNumber2"
+        android:id="@+id/txt_n2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="52dp"
         android:layout_marginTop="12dp"
         android:ems="10"
+        android:hint="@string/txt_n..."
         android:inputType="number"
+        android:textAlignment="textEnd"
         app:layout_constraintStart_toEndOf="@+id/textView5"
-        app:layout_constraintTop_toBottomOf="@+id/editTextNumber" />
+        app:layout_constraintTop_toBottomOf="@+id/txt_n1" />
 
     <TextView
         android:id="@+id/textView7"
@@ -118,35 +120,41 @@
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
     <EditText
-        android:id="@+id/editTextNumber"
+        android:id="@+id/txt_n1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="52dp"
         android:layout_marginTop="308dp"
         android:ems="10"
+        android:hint="@string/txt_n..."
         android:inputType="number"
+        android:textAlignment="textEnd"
         app:layout_constraintStart_toEndOf="@+id/textView4"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber3"
+        android:id="@+id/txt_n3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="52dp"
         android:layout_marginTop="20dp"
         android:ems="10"
+        android:hint="@string/txt_n..."
         android:inputType="number"
+        android:textAlignment="textEnd"
         app:layout_constraintStart_toEndOf="@+id/textView6"
-        app:layout_constraintTop_toBottomOf="@+id/editTextNumber2" />
+        app:layout_constraintTop_toBottomOf="@+id/txt_n2" />
 
     <EditText
-        android:id="@+id/editTextNumber4"
+        android:id="@+id/txt_n4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="52dp"
         android:layout_marginTop="8dp"
         android:ems="10"
+        android:hint="@string/txt_n..."
         android:inputType="number"
+        android:textAlignment="textEnd"
         app:layout_constraintStart_toEndOf="@+id/textView7"
-        app:layout_constraintTop_toBottomOf="@+id/editTextNumber3" />
+        app:layout_constraintTop_toBottomOf="@+id/txt_n3" />
 </androidx.constraintlayout.widget.ConstraintLayout>

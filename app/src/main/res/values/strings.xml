@@ -15,4 +15,9 @@
     <string name="btn1">+ Ingreso</string>
     <string name="btn2">- Gasto</string>
     <string name="btn3">Transferencias</string>
+
+
+    //txt_number
+    <string name="txt_n...">0.00</string>
+
 </resources>
