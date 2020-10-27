@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mi_Cartera_App</string>
+
+
+    //txtview
+    <string name="tv1">Mi Cartera App</string>
+    <string name="tv2">Balance mensual + remanentes</string>
+    <string name="tv3">Fecha:</string>
+    <string name="tv4">Ingreso:</string>
+    <string name="tv5">Saldo anterior:</string>
+    <string name="tv6">Gasto:</string>
+    <string name="tv7">Saldo actual:</string>
+
+    //buttons
+    <string name="btn1">+ Ingreso</string>
+    <string name="btn2">- Gasto</string>
+    <string name="btn3">Transferencias</string>
+</resources>
