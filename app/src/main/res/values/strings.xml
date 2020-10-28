@@ -23,7 +23,7 @@
 
     //buttons 2
     <string name="btn4">Guardar ingreso</string>
-
+    <string name="btn5">Inicio</string>
 
     //txt_number
     <string name="txt_n...">0.00</string>
@@ -32,6 +32,7 @@
     <string name="txt_n2">0</string>
     <string name="txt_n3">dd/MM/yy</string>
     <string name="txt_n4">Ingresa la hora del registro</string>
+
 
 
 
