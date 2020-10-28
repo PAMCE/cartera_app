@@ -11,13 +11,28 @@
     <string name="tv6">Gasto:</string>
     <string name="tv7">Saldo actual:</string>
 
+    //txtview 2
+    <string name="tv8">Ingresos</string>
+
+
+
     //buttons
     <string name="btn1">+ Ingreso</string>
     <string name="btn2">- Gasto</string>
     <string name="btn3">Transferencias</string>
 
+    //buttons 2
+    <string name="btn4">Guardar ingreso</string>
+
 
     //txt_number
     <string name="txt_n...">0.00</string>
+
+    //txt_number2
+    <string name="txt_n2">0</string>
+    <string name="txt_n3">dd/MM/yy</string>
+    <string name="txt_n4">Ingresa la hora del registro</string>
+
+
 
 </resources>
